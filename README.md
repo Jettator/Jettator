@@ -10,7 +10,7 @@
 
 ## 🛡️ About Me
 
-I am an **IT & Security Engineer with 4 years of hands-on experience** in cybersecurity, network security, cloud security, and compliance — with a background spanning enterprise environments, healthcare, and BPO operations across the Dominican Republic and the United States (remote).
+I am an **IT & Security Engineer with 4 years of hands-on experience** in cybersecurity, network security, cloud security, and compliance  with a background spanning enterprise environments, healthcare, and BPO operations across the Dominican Republic and the United States (remote).
 
 My work sits at the intersection of **security engineering, cloud operations, and compliance ownership**. I have led HIPAA compliance programs end-to-end, designed and deployed network security architectures, managed enterprise security tooling across complex environments, and engineered AI-driven automations for healthcare workflows.
 
@@ -80,7 +80,7 @@ LunaJoy Health is a US-based healthcare company. As sole IT & Security Administr
 
 Main responsibilities:
 
-- Sole owner of the HIPAA compliance program — managing end-to-end audit reporting and regulatory controls
+- Sole owner of the HIPAA compliance program, managing end-to-end audit reporting and regulatory controls
 - Lead cloud security operations on AWS: IAM administration, vulnerability assessments, billing optimization
 - Engineer custom Python scripts and API integrations to automate data pipeline workflows
 - Design and deploy AI-powered apps within Google Chat using webhooks and API integrations for QA of voice calls
@@ -139,7 +139,7 @@ Key projects: **Colombia Expansion**, **Phase 2 Expansion**
 ## 📌 Featured Projects
 
 ### HIPAA Audit 2026
-End-to-end HIPAA compliance audit and remediation for a US-based healthcare company. Sole owner of the compliance program — covered audit reporting, regulatory controls, and security findings remediation.
+End-to-end HIPAA compliance audit and remediation for a US-based healthcare company. Sole owner of the compliance program covered audit reporting, regulatory controls, and security findings remediation.
 
 ### Cloud Risk Assessment — LunaJoy Health
 AWS cloud risk assessment covering IAM posture, vulnerability findings, infrastructure hardening, and data privacy controls aligned with HIPAA requirements.
